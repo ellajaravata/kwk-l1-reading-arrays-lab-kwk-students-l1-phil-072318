@@ -1,15 +1,15 @@
 STUDENT_NAMES = [ "Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
 
 def first_student_by_index
-  puts first_student_by_index
+  puts first_student_by_index[0]
 end
 
 def fourth_student_by_index
- puts fourth_student_by_index
+ puts fourth_student_by_index[3]
 end
 
 def last_student_by_index
-  last_student_by_index
+  last_student_by_index[5]
 end
 
 def first_student_by_method
