@@ -1,6 +1,6 @@
 def first_student_by_index
  STUDENT_NAMES = ["Adele","Beyoncé","Cardi B","Lady Gaga","Nicki Minaj","Rihanna"]
-  puts STUDENT_NAMES[0]
+  puts first_student_by_index[0]
 end
 
 def fourth_student_by_index
